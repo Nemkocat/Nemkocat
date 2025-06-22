@@ -1,5 +1,5 @@
 <!-- MasterHead -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ4dmwxc3B0dmU0OHA2b2FjdjM4Zm8yOWVtdWhxdDlwenIycjI2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AO5qaphTxRnyw/giphy.gif" alt="testPic" style="width:auto; height:auto"/>
+<img src="https://imgur.com/gallery/animated-pixel-art-that-soothes-soul-8a66g#xhrYwDs" alt="testPic" style="width:auto; height:auto"/>
 
 <!-- Greeting -->
 <h1 align="center">Hello there! My name is Gleb Sysoikov</h1>
