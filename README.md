@@ -23,7 +23,7 @@
 <!-- GitHub stats -->
 # 🌱 Github Status:
 
-<div align-items="center" display="flex" justify-content="space-around">
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <img width="435" src="https://github-readme-stats.vercel.app/api?username=nemkocat&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true"/>
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemkocat&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   
