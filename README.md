@@ -8,11 +8,11 @@
 <h4 align="left">🌟I am a college graduate (computer science) with experience in developing several projects, I work daily to improve my programming skills and go through the Frontend Developer roadmap. My personal learning path is aimed at creating a solid foundation and building a career in the company/team. I am particularly passionate about the field of web content (websites and web applications) and plan to develop in this direction in the long term..</h4>
 
 <!-- About me -->
-# 💫 About Me:
+💫 About Me:
 🌱 I am currently working on and developing my programming skills.<br>🔭 I'm currently studying: React, SASS/SCSS, page optimization, CEO basics<br>💬 Interested in working for the company<br>⚡ I am most interested in the development related to web development and analysis (securities market).
 
 <!-- Stack -->
-# 💻 Tech Stack:
+💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <!-- GitHub stats -->
